@@ -345,3 +345,7 @@ body {
 
   width: 264px;
 }
+header {
+  display: flex;
+  border-bottom:1px solid color:#e7e9fc;
+}
