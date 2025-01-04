@@ -241,6 +241,7 @@ body {
 /*              Team              */
 .team {
   background-color: var(--cloud);
+  padding: 120px 0;
 }
 
 .team__title {
