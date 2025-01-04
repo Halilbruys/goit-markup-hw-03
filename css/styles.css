@@ -288,6 +288,10 @@ body {
 }
 
 /*             Portfolio             */
+.portfolio {
+  padding: 120px 0;
+  display: flex;
+}
 .portfolio__title {
   font-size: 36px;
   line-height: 1.11;
