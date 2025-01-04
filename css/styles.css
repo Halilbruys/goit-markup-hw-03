@@ -263,6 +263,7 @@ body {
 .team__item {
   background-color: var(--white);
   border-radius: 0 0 4px 4px;
+  width: calc((100% - 72px) / 4 );
 }
 
 .team__content {
@@ -314,7 +315,7 @@ body {
   padding: 32px 16px;
   border: 1px solid var(--cornflower);
   border-top: none;
-  
+
 }
 
 .portfolio__card-title {
